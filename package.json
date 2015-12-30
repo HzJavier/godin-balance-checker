@@ -1,5 +1,5 @@
 {
-  "name": "balance-checker",
+  "name": "godin-balance-checker",
   "version": "1.0.0",
   "description": "Simple Godin module to check current balance",
   "main": "index.js",
